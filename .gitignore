@@ -2,6 +2,8 @@
 *~
 __pycache__
 myvenv
+Lib
+Scripts
 db.sqlite3
 /static
 .DS_Store
